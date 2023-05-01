@@ -1,0 +1,32 @@
+.calculator {
+    width: 200px;
+    margin: 0 auto;
+    font-size: 20px;
+}
+
+table {
+    margin-top: 10px;
+    width: 100%;
+}
+
+td {
+    padding: 5px;
+    text-align: center;
+}
+
+button {
+    width: 100%;
+    padding: 5px;
+    font-size: 20px;
+}
+
+.result {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    text-align: right;
+}
+.title{
+    font-size: 21px;
+    text-align: center;
+}
